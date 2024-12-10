@@ -1,0 +1,56 @@
+PassengerId,Has_Survived,Passenger_Class,Name,Sex,Age,Num_Siblings_Spouses,Num_Parents_Childern,Ticket,Fare,Embarked,Deck,Has_Cabin,Age_Group
+10,1,2,"Nasser, Mrs. Nicholas (Adele Achem)",female,14.0,1,0,237736,30.0708,C,Unknown,0,13-20
+11,1,3,"Sandstrom, Miss. Marguerite Rut",female,4.0,1,1,PP 9549,16.7,S,G,1,0-12
+15,0,3,"Vestrom, Miss. Hulda Amanda Adolfina",female,14.0,0,0,350406,7.8542,S,Unknown,0,13-20
+23,1,3,"McGowan, Miss. Anna ""Annie""",female,15.0,0,0,330923,8.0292,Q,Unknown,0,13-20
+25,0,3,"Palsson, Miss. Torborg Danira",female,8.0,3,1,349909,21.075,S,Unknown,0,0-12
+40,1,3,"Nicola-Yarred, Miss. Jamila",female,14.0,1,0,2651,11.2417,C,Unknown,0,13-20
+44,1,2,"Laroche, Miss. Simonne Marie Anne Andree",female,3.0,1,2,SC/Paris 2123,41.5792,C,Unknown,0,0-12
+59,1,2,"West, Miss. Constance Mirium",female,5.0,1,2,C.A. 34651,27.75,S,Unknown,0,0-12
+69,1,3,"Andersson, Miss. Erna Alexandra",female,17.0,4,2,3101281,7.925,S,Unknown,0,13-20
+72,0,3,"Goodwin, Miss. Lillian Amy",female,16.0,5,2,CA 2144,46.9,S,Unknown,0,13-20
+85,1,2,"Ilett, Miss. Bertha",female,17.0,0,0,SO/C 14885,10.5,S,Unknown,0,13-20
+112,0,3,"Zabour, Miss. Hileni",female,14.5,1,0,2665,14.4542,C,Unknown,0,13-20
+115,0,3,"Attalah, Miss. Malake",female,17.0,0,0,2627,14.4583,C,Unknown,0,13-20
+120,0,3,"Andersson, Miss. Ellis Anna Maria",female,2.0,4,2,347082,31.275,S,Unknown,0,0-12
+148,0,3,"Ford, Miss. Robina Maggie ""Ruby""",female,9.0,2,2,W./C. 6608,34.375,S,Unknown,0,0-12
+157,1,3,"Gilnagh, Miss. Katherine ""Katie""",female,16.0,0,0,35851,7.7333,Q,Unknown,0,13-20
+173,1,3,"Johnson, Miss. Eleanor Ileen",female,1.0,1,1,347742,11.1333,S,Unknown,0,0-12
+185,1,3,"Kink-Heilmann, Miss. Luise Gretchen",female,4.0,0,2,315153,22.025,S,Unknown,0,0-12
+206,0,3,"Strom, Miss. Telma Matilda",female,2.0,0,1,347054,10.4625,S,G,1,0-12
+209,1,3,"Carr, Miss. Helen ""Ellen""",female,16.0,0,0,367231,7.75,Q,Unknown,0,13-20
+234,1,3,"Asplund, Miss. Lillian Gertrud",female,5.0,4,2,347077,31.3875,S,Unknown,0,0-12
+238,1,2,"Collyer, Miss. Marjorie ""Lottie""",female,8.0,0,2,C.A. 31921,26.25,S,Unknown,0,0-12
+298,0,1,"Allison, Miss. Helen Loraine",female,2.0,1,2,113781,151.55,S,C,1,0-12
+308,1,1,"Penasco y Castellana, Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo)",female,17.0,1,0,PC 17758,108.9,C,C,1,13-20
+330,1,1,"Hippach, Miss. Jean Gertrude",female,16.0,0,1,111361,57.9792,C,B,1,13-20
+375,0,3,"Palsson, Miss. Stina Viola",female,3.0,3,1,349909,21.075,S,Unknown,0,0-12
+382,1,3,"Nakid, Miss. Maria (""Mary"")",female,1.0,0,2,2653,15.7417,C,Unknown,0,0-12
+390,1,2,"Lehmann, Miss. Bertha",female,17.0,0,0,SC 1748,12.0,C,Unknown,0,13-20
+420,0,3,"Van Impe, Miss. Catharina",female,10.0,0,2,345773,24.15,S,Unknown,0,0-12
+436,1,1,"Carter, Miss. Lucile Polk",female,14.0,1,2,113760,120.0,S,B,1,13-20
+447,1,2,"Mellinger, Miss. Madeleine Violet",female,13.0,0,1,250644,19.5,S,Unknown,0,13-20
+449,1,3,"Baclini, Miss. Marie Catherine",female,5.0,2,1,2666,19.2583,C,Unknown,0,0-12
+470,1,3,"Baclini, Miss. Helene Barbara",female,0.75,2,1,2666,19.2583,C,Unknown,0,0-12
+480,1,3,"Hirvonen, Miss. Hildur E",female,2.0,0,1,3101298,12.2875,S,Unknown,0,0-12
+505,1,1,"Maioni, Miss. Roberta",female,16.0,0,0,110152,86.5,S,B,1,13-20
+531,1,2,"Quick, Miss. Phyllis May",female,2.0,1,1,26360,26.0,S,Unknown,0,0-12
+536,1,2,"Hart, Miss. Eva Miriam",female,7.0,0,2,F.C.C. 13529,26.25,S,Unknown,0,0-12
+542,0,3,"Andersson, Miss. Ingeborg Constanzia",female,9.0,4,2,347082,31.275,S,Unknown,0,0-12
+543,0,3,"Andersson, Miss. Sigrid Elisabeth",female,11.0,4,2,347082,31.275,S,Unknown,0,0-12
+619,1,2,"Becker, Miss. Marion Louise",female,4.0,2,1,230136,39.0,S,F,1,0-12
+635,0,3,"Skoog, Miss. Mabel",female,9.0,3,2,347088,27.9,S,Unknown,0,0-12
+643,0,3,"Skoog, Miss. Margit Elizabeth",female,2.0,3,2,347088,27.9,S,Unknown,0,0-12
+645,1,3,"Baclini, Miss. Eugenie",female,0.75,2,1,2666,19.2583,C,Unknown,0,0-12
+690,1,1,"Madill, Miss. Georgette Alexandra",female,15.0,0,1,24160,211.3375,S,B,1,13-20
+692,1,3,"Karun, Miss. Manca",female,4.0,0,1,349256,13.4167,C,Unknown,0,0-12
+721,1,2,"Harper, Miss. Annie Jessie ""Nina""",female,6.0,0,1,248727,33.0,S,Unknown,0,0-12
+751,1,2,"Wells, Miss. Joan",female,4.0,1,1,29103,23.0,S,Unknown,0,0-12
+778,1,3,"Emanuel, Miss. Virginia Ethel",female,5.0,0,0,364516,12.475,S,Unknown,0,0-12
+781,1,3,"Ayoub, Miss. Banoura",female,13.0,0,0,2687,7.2292,C,Unknown,0,13-20
+782,1,1,"Dick, Mrs. Albert Adrian (Vera Gillespie)",female,17.0,1,0,17474,57.0,S,B,1,13-20
+814,0,3,"Andersson, Miss. Ebba Iris Alfrida",female,6.0,4,2,347082,31.275,S,Unknown,0,0-12
+831,1,3,"Yasbeck, Mrs. Antoni (Selini Alexander)",female,15.0,1,0,2659,14.4542,C,Unknown,0,13-20
+853,0,3,"Boulos, Miss. Nourelain",female,9.0,1,1,2678,15.2458,C,Unknown,0,0-12
+854,1,1,"Lines, Miss. Mary Conover",female,16.0,0,1,PC 17592,39.4,S,D,1,13-20
+876,1,3,"Najib, Miss. Adele Kiamie ""Jane""",female,15.0,0,0,2667,7.225,C,Unknown,0,13-20
